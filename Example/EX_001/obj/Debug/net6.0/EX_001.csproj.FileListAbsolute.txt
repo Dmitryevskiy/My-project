@@ -1,0 +1,16 @@
+C:\Users\Оля\Documents\Repo\Example\EX_001\bin\Debug\net6.0\EX_001.exe
+C:\Users\Оля\Documents\Repo\Example\EX_001\bin\Debug\net6.0\EX_001.deps.json
+C:\Users\Оля\Documents\Repo\Example\EX_001\bin\Debug\net6.0\EX_001.runtimeconfig.json
+C:\Users\Оля\Documents\Repo\Example\EX_001\bin\Debug\net6.0\EX_001.dll
+C:\Users\Оля\Documents\Repo\Example\EX_001\bin\Debug\net6.0\ref\EX_001.dll
+C:\Users\Оля\Documents\Repo\Example\EX_001\bin\Debug\net6.0\EX_001.pdb
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.GlobalUsings.g.cs
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.csproj.AssemblyReference.cache
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.AssemblyInfoInputs.cache
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.AssemblyInfo.cs
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.csproj.CoreCompileInputs.cache
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.dll
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\ref\EX_001.dll
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.pdb
+C:\Users\Оля\Documents\Repo\Example\EX_001\obj\Debug\net6.0\EX_001.genruntimeconfig.cache
